@@ -4,8 +4,5 @@
 name_hash = {:chair => 25, :table => 85, :mattress => 450}
  i = 0
 def key_for_min_value(name_hash)
- while i > name_hash.length do 
-   
- if 
-   i += 1
+  name_hash.each do |
 end
